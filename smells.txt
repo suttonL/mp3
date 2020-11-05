@@ -1,0 +1,12 @@
+
+Question1:
+	Duplicated Code on line 606 in getUpdates	
+
+Question 3:
+	Feature Envy, move to a more appropriate location
+
+Question 4:
+	Move all into one function and use that in those four location.
+
+Question 6:
+	Switch statement
